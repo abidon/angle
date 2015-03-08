@@ -21,7 +21,7 @@
 #ifndef _angle_list_h
 #define _angle_list_h
 
-#include <types.h>
+#include <angle/types.h>
 #include <angle/iterator.hxx>
 
 /*
